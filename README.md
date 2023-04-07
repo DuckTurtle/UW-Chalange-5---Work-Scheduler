@@ -8,8 +8,9 @@ and how to better use dayjs and jquery.
 There is no instalation.
 
 ## Usage
-The only feature the user can interact with is the text box's where the user writes and saves events. Otherwise there is the current time diplaed at the top of the page, 
-and the color coding to indacate wether a timeblock is past, present, or in the future.
+The only feature the user can interact with is the text box's where the user writes and saves events. Otherwise there is the current time diplaed at the top of the page, and the color coding to indacate wether a timeblock is past, present, or in the future.
+
+![alt-text](/assets/website5.JPG)
 
 ## License
 MIT License
